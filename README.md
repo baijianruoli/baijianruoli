@@ -1,7 +1,7 @@
 
 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=baijianruoli&show_icons=true&include_all_commits=true)](https://github.com/baijianruoli) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baijianruoli&layout=compact)](https://github.com/baijianruoli)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=baijianruoli&show_icons=true&include_all_commits=true)](https://github.com/baijianruoli) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baijianruoli&layout=compact&hide=CSS,HTML)](https://github.com/baijianruoli)
 
 
 
